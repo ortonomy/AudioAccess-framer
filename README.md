@@ -1,6 +1,8 @@
 # AudioAccess-framer
 A module for FramerJS that enables microphone input and recording inside Framer prototypes.
 
+![A screenshot of various functions in AudioAccess bound to buttons in Framer prototype](AudioAccess-framer/AudioAccess_framer.png)
+
 # Acknowledgements
 This module exposes and simplifies the use of two technologies, allowing you to add audi
 - __RecorderJS by Matt Diamond__ [https://github.com/mattdiamond/Recorderjs](https://github.com/mattdiamond/Recorderjs)
