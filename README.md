@@ -23,7 +23,7 @@ Because of the lack of widespread support for the ``getUserMedia`` API, and Goog
 _N.B._ It's a good idea to copy the files in this order. I've had problems with Framer Studio not recognising the modules in the ``node_modules`` folder, even in a brand new prototype, unless the folder is present before I load in ``npm.coffee``
 
 #Usage
-1. To use the module, first require it. Note the curly brackets - they are required:
+1. To use the module, first require it. Note the curly braces - they are required:
 ```
 { AudioAccess } = require 'AudioAccess'
 ```
