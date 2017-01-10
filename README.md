@@ -10,7 +10,9 @@ This module exposes and simplifies the use of two technologies, allowing you to 
 
 # Before you use
 __Platform support__
-As of _10th January 2017_, Framer Studio for macOS uses Safari as its rendering engine. Safari on all platforms does not support the HTML5 API ``getUserMedia``. Given this, this module will cause an error inside Framer Studio related to ``getUserMedia``. You can safely ignore it
+As of _10th January 2017_, Framer Studio for macOS uses Safari as its rendering engine. Safari on all platforms does not support the HTML5 API ``getUserMedia``. Given this, this module will cause an error inside Framer Studio related to ``getUserMedia``. You can safely ignore it:
+![getUserMedia error in Framer](AudioAccess_framer-error.png)
+
 __Prerequisites for use__
 Because of the lack of widespread support for the ``getUserMedia`` API, and Google Chrome's insistance that the API call be made from a secure host, I can only guarantee this module works if:
 
