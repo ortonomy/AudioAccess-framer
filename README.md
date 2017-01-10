@@ -1,2 +1,4 @@
 # AudioAccess-framer
-A module that enables microphone input and recording in Framer Prototypes
+A module for FramerJS that enables microphone input and recording inside Framer prototypes.
+
+# Usage
