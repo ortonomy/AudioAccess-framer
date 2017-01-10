@@ -55,7 +55,7 @@ When you're recording is over, stop recording with:
 ```
 AudioAccess.stopRecordingInput()
 ```
-NOTE: ``stopRecordingInput()`` will store your recording ready for playback after recording. When the module has finished storing your recording, it will call a callback function called ``recordingCB``. Assign a function to this callback to trigger something once your recording is confirmed. *Example:* 
+NOTE: ``stopRecordingInput()`` will store your recording ready for playback after recording. When the module has finished storing your recording, it will call a callback function called ``recordingCB``. Assign a function to this callback to trigger something once your recording is confirmed. Example: 
 ```
 # callback for when recording has finished being saved
 AudioAccess.recordingCB = () ->
