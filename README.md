@@ -4,7 +4,7 @@ A module for FramerJS that enables microphone input and recording inside Framer 
 ![A screenshot of various functions in AudioAccess bound to buttons in Framer prototype](AudioAccess_framer.png)
 
 # Acknowledgements
-This module exposes and simplifies the use of two technologies, allowing you to add audi
+This module exposes and simplifies the use of two technologies:
 - __RecorderJS by Matt Diamond__ [https://github.com/mattdiamond/Recorderjs](https://github.com/mattdiamond/Recorderjs)
 - __Web Audio API__ this is a new HTML5 API that can be used to load and play audio files, or generate sounds using oscillators and other cool audio tools. See [https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) for details
 
