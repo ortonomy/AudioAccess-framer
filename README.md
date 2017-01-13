@@ -138,5 +138,5 @@ AudioAccess.playAudioFile( () -> layerA.image = 'playing.png')
 #### Stop an audio file from playing
 To stop a playing audio, call ``stopAudioFile(callback)``. Provide a callback that will play when the file ends.
 ```
-  AudioAccess.stopAudioFile( () -> layerA.inage = 'stopped.png')
+  AudioAccess.stopAudioFile( () -> layerA.image = 'stopped.png')
 ```
